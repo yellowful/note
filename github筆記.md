@@ -1,10 +1,11 @@
 github筆記：
 
+1.在github上開啟一個新的專案
+可以把github提供的命令先複製起來放著
+git remote add origin https://github.com/yellowful/note.git
+git push -u origin master
 
-1 首先下載git，並安裝
-https://git-scm.com/
-
-2 到要版本控制的資料夾中，下命令
+2 在本機開一個和專案名稱相同的資料夾，並到到該資料夾中，下命令
 git init
 
 3 要寫的程式、筆記、檔案存檔
@@ -19,3 +20,21 @@ git commit -m '一行說明'
 i進入編輯模式
 按esc鍵會進入命令模式
 命令模式下:wq，就是存檔離開
+
+7 下步驟1複製的第一個命令
+git remote add origin https://github.com/yellowful/note.git
+
+8 下步驟 1複製的第二個命令
+git push -u origin master
+
+9 要更新github上的版本，就重覆步驟4、5、8
+
+
+
+第一次使用：
+
+1 首先下載git，並安裝
+https://git-scm.com/
+
+2 到github上註冊
+https://github.com/
