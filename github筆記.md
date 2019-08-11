@@ -1,4 +1,4 @@
-*github筆記*
+**github筆記**
 
 1. 在github上開啟一個新的專案
 可以把github提供的命令先複製起來放著
