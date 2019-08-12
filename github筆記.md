@@ -1,7 +1,7 @@
 **github筆記**
 
 1. 在github上開啟一個新的專案  
->可以把github提供的命令先複製起來放著  
+    可以把github提供的命令先複製起來放著  
 git remote add origin https://github.com/yellowful/note.git  
 git push -u origin master
 
@@ -18,9 +18,9 @@ git push -u origin master
 注意要有單引號
 
 6. 若沒有下參數-m，則會進入多行的說明模式，這是vim的環境。  
->i進入編輯模式  
-按esc鍵會進入命令模式  
-命令模式下:wq，就是存檔離開
+>i進入編輯模式
+按esc鍵會進入命令模式
+>命令模式下:wq，就是存檔離開
 
 7. 下步驟1複製的第一個命令  
 >git remote add origin https://github.com/yellowful/note.git
@@ -34,7 +34,7 @@ git push -u origin master
 第一次使用：
 
 1. 首先下載git，並安裝
-https://git-scm.com/
+>https://git-scm.com/
 
 2. 到github上註冊
-https://github.com/
+>https://github.com/
