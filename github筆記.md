@@ -17,7 +17,7 @@ git push -u origin master
 >git add 檔名
 
 5. 在本機建立一個版本，並為版本寫下一行的說明  
->git commit -m '一行說明'
+>git commit -m '一行說明'  
     注意要有單引號
 
 6. 若沒有下參數-m，則會進入多行的說明模式，這是vim的環境。  
