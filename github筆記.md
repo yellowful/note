@@ -43,7 +43,7 @@ git push -u origin master
 2. 到github上註冊
 >https://github.com/
 
-# 編輯時常用命令
+## 編輯時常用命令
 
 | 用途：           | 命令             |
 |:----------------|:----------------|
